@@ -1,0 +1,71 @@
+.list-page{
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.list-heading{
+    color : rgb(95, 17, 220);
+    margin-top: 30px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+p.secHeading{
+    font-weight: 500;
+}
+
+.login-button{
+    background-color: rgb(95, 17, 220) !important;
+    border-radius: 20px !important;
+    margin-bottom: 10px;
+}
+
+.form-label{
+    margin-left: 5px;
+    font-size: 10px;
+}
+
+input.form-control{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    font-size: 10px !important;
+}
+
+input.img-upload{
+    font-size: 10px;
+
+}
+
+select.form-select{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    font-size: 10px !important;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.forget{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+
+select.form-select{
+    width: auto;
+}
+
+p.upload-text{
+    font-size: 10px;
+}
+
+.img-btn{
+    display: inline-block;
+}
+/* 
+.login-button{
+    margin-left: auto;
+} */

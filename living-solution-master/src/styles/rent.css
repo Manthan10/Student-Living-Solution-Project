@@ -1,0 +1,18 @@
+h1.rent-heading {
+  font-size: 50px;
+}
+
+.p_img {
+  height: 200px;
+  width: auto;
+  overflow: hidden;
+}
+
+.property-card {
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.property-card:hover {
+  transform: scale(1.05);
+}

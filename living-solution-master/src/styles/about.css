@@ -1,0 +1,10 @@
+.about-heading{
+    margin-top: 50px;
+    font-size: 24px;
+    color: rgb(95, 17, 220);
+    font-weight: 800;
+}
+
+.about-text{
+    font-size: smaller;
+}

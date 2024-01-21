@@ -1,0 +1,31 @@
+.services-icon{
+    border: 5px solid black;
+    border-radius: 1000px;
+    background-color: white;
+}
+
+.blue{
+    background-color: blue;
+}
+h2.services-text{
+    font-size: 24px;
+    font-weight: 800;
+    color: rgb(91, 28, 239);
+}
+
+p.services-text{
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-indent: 3px;
+    line-height: 20px;
+    
+}
+
+.services-card{
+    transition: transform 0.3s;
+}
+
+.services-card:hover{
+    transform: scale(1.1);
+}

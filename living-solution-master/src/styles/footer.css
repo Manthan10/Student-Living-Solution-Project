@@ -1,0 +1,26 @@
+.footer-icons {
+  border-bottom: 1px solid blueviolet;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+.footer-icons > div > svg {
+  margin-left: 40%;
+}
+
+.footer-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-text h3 {
+  color: rgb(72, 9, 207);
+  border-bottom: 1px solid rgb(72, 9, 207);
+  display: inline;
+}
+
+.footer-text p {
+  padding-bottom: 10px;
+  color: rgb(62, 159, 245);
+}

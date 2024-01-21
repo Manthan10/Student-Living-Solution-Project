@@ -1,0 +1,31 @@
+.contact-us{
+    margin-top: 70px;
+    padding-top: 50px;   
+}
+.input-card{
+    border-radius: 20px !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.input-heading{
+    font-size: 24px;
+    font-weight: 800;
+    color: rgb(95, 17, 220);
+}
+
+.contact-form{
+    margin-top: 15px;
+    background-color: rgb(240, 220, 252) !important;
+    border-radius: 10px !important;
+    padding-left: 20px !important;
+    font-size: 12px !important;
+}
+
+.description-box{
+    height: 100px !important;
+}
+
+.contact-submit{
+    background-color: rgb(95, 17, 220) !important;
+}
